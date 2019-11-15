@@ -1,10 +1,10 @@
 # How To Joyce
 
-Hello! My name is Joyce and I am an engineering manager.
+Hello! 
+
+My name is Joyce and I am an engineering manager.
 
 Here is a how-to guide to help you understand my motivations and how I work. My hope is that this will help you navigate the potentially confusing paths of communication that can occur. 
-
-Would love to hear from you if you have any feedback or suggestions on how this can be even more helpful to you.
 
 ## My Values
 

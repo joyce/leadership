@@ -68,7 +68,7 @@ Meetings
 Communication
 
 * I’m most responsive on Slack via DM
-** Sometimes I’ll Slack you outside normal work hours. Treat as async. Does not mean I expect you to be online and responding at that time as well
+* Sometimes I’ll Slack you outside normal work hours. Treat as async. Does not mean I expect you to be online and responding at that time as well
 * I do my best to stay updated on emails but longer turnaround time than Slack
 
 Feedback

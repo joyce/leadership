@@ -10,7 +10,7 @@ Here is a how-to guide to help you understand my motivations and how I work. My 
 
 My focus is your overall success (even beyond $current_company)
 
-* "career" part of "career development is a longer term concept, and let's work on figuring out how we can make your time at $current_company a building block that helps you progress on your preferred growth path
+* "Career" part of "career development is a longer term concept, and let's work on figuring out how we can make your time on this team a building block that helps you progress on your preferred growth path
 
 I believe in systems and habits
 
@@ -20,7 +20,7 @@ I believe in systems and habits
 Team is the star of the show
 
 * I love being able to bring together a group of individuals with varied strengths and become an awesome team that makes each other stronger and better
-* my job is to create an environment that allows the team and the individuals on the team to succeed
+* My job is to create an environment that allows the team and the individuals on the team to succeed
 * Basically, you’re the face of the team and my job is to make you look good
 
 Collaboration always
@@ -105,7 +105,7 @@ I enjoy PM work
 
 I am a morning person
 
-* sorry SF, you're welcome DC
+* Works out well for remote East Coast teams
 
 I bias towards acton
 

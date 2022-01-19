@@ -116,7 +116,6 @@ I bias towards acton
 I enjoy organizing chaos
 
 * That’s why start-ups are fun
-* Ambiguity can be lots of fun
 * I’m happiest when working on several things at once
 
 I love feedback
